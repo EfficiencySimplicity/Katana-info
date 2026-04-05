@@ -1,6 +1,6 @@
 # NOTICE!
 
-**Katana's repo has been taken down due to security reasons.** The code inside can be used to reverse-engineer the system more easily, thus making it an easier target for scrapers.
+**Katana's repo has been made private due to security reasons.** The code inside can be used to reverse-engineer the system more easily, thus making it an easier target for scrapers.
 
 Open-source software is wonderful, but with only a few people working on a project, it's difficult to keep it up to date against bad actors. Without a community of people behind Katana, it's unfeasible to have the code be public.
 
